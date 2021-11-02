@@ -1,0 +1,5 @@
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.dll
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.pdb
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\ResolveAssemblyReference.cache
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb

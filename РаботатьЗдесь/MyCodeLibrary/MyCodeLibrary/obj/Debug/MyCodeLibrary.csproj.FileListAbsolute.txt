@@ -1,0 +1,15 @@
+C:\Work\myVirtualDisk\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
+C:\Work\myVirtualDisk\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
+C:\Work\myVirtualDisk\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
+C:\Work\myVirtualDisk\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\ResolveAssemblyReference.cache
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb
