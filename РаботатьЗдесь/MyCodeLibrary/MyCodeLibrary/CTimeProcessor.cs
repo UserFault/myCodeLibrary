@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace MyCodeLibrary
 {
@@ -127,6 +128,23 @@ namespace MyCodeLibrary
         {
             return (input.TimeOfDay == timeToCompare.TimeOfDay);
         }
+
+        /// <summary>
+        /// NR-Returns current timestamp
+        /// </summary>
+        public static String CurrentShortTimeStamp
+        {
+            get { return DateTime.Now.ToString("MM.dd.yy HH:mm:ss tt", CultureInfo.CurrentCulture); }
+        }
+
+        /// <summary>
+        /// NR-Returns current timestamp extended
+        /// </summary>
+        public static String CurrentFullTimeStamp
+        {
+            get { return DateTime.Now.ToString("ddd MMMM dd, yyyy hh:mm:ss tt", CultureInfo.CurrentCulture); }
+        }
+
 
     }
 }

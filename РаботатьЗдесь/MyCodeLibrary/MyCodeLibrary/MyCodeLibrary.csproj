@@ -52,10 +52,13 @@
     <Compile Include="CardFile\SimpleKeyManager.cs" />
     <Compile Include="CExceptionProcessor.cs" />
     <Compile Include="CImageProcessor.cs" />
+    <Compile Include="CNativeMethodProcessor.cs" />
+    <Compile Include="CNetworkProcessor.cs" />
     <Compile Include="CNumberProcessor.cs" />
     <Compile Include="Collections\CollectionsUtility.cs" />
     <Compile Include="CombinedException.cs" />
     <Compile Include="AppCapabilities\ConsoleDialogs.cs" />
+    <Compile Include="CRegistryProcessor.cs" />
     <Compile Include="FileStorageV2\FileStorageManager2.cs" />
     <Compile Include="FileStorageV2\TestUsing.cs" />
     <Compile Include="Hash\CRC16.cs" />
@@ -66,6 +69,9 @@
     <Compile Include="CSetProcessor.cs" />
     <Compile Include="Cache\SimpleCache.cs" />
     <Compile Include="HTMLoperations\HTMLprocessor.cs" />
+    <Compile Include="myRandom.cs" />
+    <Compile Include="SystemInfo\SystemInfoProcessor.cs" />
+    <Compile Include="SystemInfo\myOsVersionInfo.cs" />
     <Compile Include="TextProcessing\BaseXCoder.cs" />
     <Compile Include="TextProcessing\CStringProcessor.cs" />
     <Compile Include="CTimeProcessor.cs" />
@@ -85,49 +91,20 @@
     <Compile Include="ShellLink\ShortCut1.cs" />
     <Compile Include="AppCapabilities\SingleInstance.cs" />
     <Compile Include="myVersion.cs" />
-    <Compile Include="SystemInfo\Architecture.cs" />
-    <Compile Include="SystemInfo\BIOS.cs" />
     <Compile Include="SystemInfo\BIOSObject.cs" />
-    <Compile Include="SystemInfo\CheckIf.cs" />
-    <Compile Include="SystemInfo\CommandInfo.cs" />
-    <Compile Include="SystemInfo\ComputerInfo.cs" />
-    <Compile Include="SystemInfo\CryptoRandom.cs" />
-    <Compile Include="SystemInfo\DateTimeHelper.cs" />
+    <Compile Include="SystemInfo\ComputerInfoObject.cs" />
     <Compile Include="SystemInfo\DriveObject.cs" />
-    <Compile Include="SystemInfo\Edition.cs" />
-    <Compile Include="SystemInfo\FileHashes.cs" />
-    <Compile Include="SystemInfo\HTML.cs" />
+    <Compile Include="Hash\FileHashes.cs" />
     <Compile Include="SystemInfo\HWObject.cs" />
     <Compile Include="SystemInfo\InstallInfoObject.cs" />
-    <Compile Include="SystemInfo\InternalForms.cs" />
-    <Compile Include="SystemInfo\Json.cs" />
-    <Compile Include="SystemInfo\NameStrings.cs" />
-    <Compile Include="SystemInfo\NativeMethods.cs" />
-    <Compile Include="SystemInfo\Network.cs" />
     <Compile Include="SystemInfo\NetworkObject.cs" />
-    <Compile Include="SystemInfo\ObjectConverters.cs" />
-    <Compile Include="SystemInfo\OEM.cs" />
-    <Compile Include="SystemInfo\OSList.cs" />
     <Compile Include="SystemInfo\OSObject.cs" />
-    <Compile Include="SystemInfo\OtherConsts.cs" />
-    <Compile Include="SystemInfo\PasswordHashes.cs" />
-    <Compile Include="SystemInfo\Processor.cs" />
+    <Compile Include="Hash\PasswordHashes.cs" />
     <Compile Include="SystemInfo\ProcessorObject.cs" />
-    <Compile Include="SystemInfo\ProductEdition.cs" />
-    <Compile Include="SystemInfo\ProductKey.cs" />
-    <Compile Include="SystemInfo\ProductType.cs" />
-    <Compile Include="SystemInfo\ProgramInfo.cs" />
-    <Compile Include="SystemInfo\RAM.cs" />
     <Compile Include="SystemInfo\RAMObject.cs" />
-    <Compile Include="SystemInfo\RegistryInfo.cs" />
-    <Compile Include="SystemInfo\RSAHashes.cs" />
-    <Compile Include="SystemInfo\ServicePack.cs" />
-    <Compile Include="SystemInfo\Storage.cs" />
+    <Compile Include="Hash\RSAHashes.cs" />
     <Compile Include="SystemInfo\StorageObject.cs" />
-    <Compile Include="SystemInfo\UserInfo.cs" />
-    <Compile Include="SystemInfo\Version.cs" />
     <Compile Include="SystemInfo\VersionObject.cs" />
-    <Compile Include="SystemInfo\VERSuite.cs" />
     <Compile Include="TextProcessing\UDE\CharsetDetector.cs" />
     <Compile Include="TextProcessing\UDE\Charsets.cs" />
     <Compile Include="TextProcessing\UDE\Core\Big5Prober.cs" />
@@ -163,11 +140,18 @@
     <Compile Include="TextProcessing\Utf8FileEncodingDetector.cs" />
     <Compile Include="AppCapabilities\UsingCounter.cs" />
     <Compile Include="Collections\VariablesCollection.cs" />
+    <Compile Include="Свалка.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="FileFolderClassification\Readme.txt" />
     <Content Include="FileStorageV2\FSM2-Readme.txt" />
-    <Content Include="Readme.txt" />
+    <Content Include="myCodeLibrary-Readme.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="myCodeLibrary-Version.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="myCodeLibrary-ToDo.txt" />
     <Content Include="TextProcessing\UDE\Readme.txt" />
   </ItemGroup>
   <ItemGroup>

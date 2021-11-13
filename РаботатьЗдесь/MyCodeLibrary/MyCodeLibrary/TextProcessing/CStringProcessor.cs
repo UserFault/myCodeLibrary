@@ -11,6 +11,8 @@ namespace MyCodeLibrary.TextProcessing
     /// </summary>
     public class CStringProcessor
     {
+        //TODO: перебросить функции отсюда в HTMLprocessor
+        
         /// <summary>
         /// RT-Конвертировать блок данных в строку
         /// </summary>

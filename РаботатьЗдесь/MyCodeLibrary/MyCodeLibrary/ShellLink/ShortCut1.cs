@@ -6,7 +6,7 @@ namespace MyCodeLibrary.ShellLinkTwo
 {
     public class CShortCut
     {
-        #region Signatures imported from http://pinvoke.net
+        #region Signitures imported from http://pinvoke.net
 
 
         [DllImport("shfolder.dll", CharSet = CharSet.Auto)]
