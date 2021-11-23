@@ -4,7 +4,7 @@ using System.Text;
 using System.IO;
 using System.Security.Cryptography;
 
-namespace Utilities
+namespace MyCodeLibrary.Hash
 {
     /// <summary>
     /// Все для вычисления контрольной суммы

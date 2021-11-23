@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyCodeLibrary
+namespace MyCodeLibrary.Hash
 {
     /// <summary>
     /// NT-Статическая версия CRC16

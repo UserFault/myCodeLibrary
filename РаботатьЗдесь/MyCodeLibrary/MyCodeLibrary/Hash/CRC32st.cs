@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyCodeLibrary
+namespace MyCodeLibrary.Hash
 {
     /// <summary>
     /// Вычисление контрольной суммы со статической таблицей полинома.

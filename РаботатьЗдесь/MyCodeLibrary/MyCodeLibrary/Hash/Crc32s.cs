@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyCodeLibrary
+namespace MyCodeLibrary.Hash
 {
     
     //Статическая и динамическая (ниже) версии класса для вычисления CRC32
